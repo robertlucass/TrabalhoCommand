@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uCommand.pas"/>
+    <File Path="uConcreteCommand.pas"/>
+    <File Path="uFormulario.pas"/>
+    <File Path="uFormulario.dfm"/>
+    <File Path="uInvoker.pas"/>
+    <File Path="uReceiver.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

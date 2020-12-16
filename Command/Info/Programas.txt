@@ -1,0 +1,21 @@
+Google Chrome
+HK-Software IBExpert Personal Edition
+Microsoft Edge
+Microsoft Edge Update
+Notepad++ (32-bit x86)
+Intel(R) Wireless Bluetooth(R)
+Intel(R) Trusted Connect Services Client
+Java Auto Updater
+Intel® Software Installer
+Microsoft VC++ redistributables repacked.
+Realtek Card Reader
+Google Update Helper
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.14.26429
+Dell Update
+MSI to redistribute MS VS2005 CRT libraries
+Intel(R) Trusted Connect Service Client x86
+Dell Digital Delivery Services
+RAD Studio 10.3
+MSI to redistribute MS VS2005 CRT libraries
+Intel(R) Processor Graphics
+Realtek Audio Driver
